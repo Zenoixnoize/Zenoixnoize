@@ -1,4 +1,4 @@
-<h2 align="center">Hi 🥰 I'm <br>Phaticusthiccy</h1>
+<h2 align="center">Hi 🥰 I'm <br>ＮＯＩＺ Ξ</h1>
 <h4 align="center">He/Him - BLM Resources</h3>
 <h4 align="center">I am a simple developer. Not more..</h3>
 <p align="center">
@@ -8,16 +8,16 @@
 ##
 
 <p align="center">
-  <a href="https://github.com/phaticusthiccy">
-    <img src="https://komarev.com/ghpvc/?username=phaticusthiccy&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+  <a href="https://github.com/Zenoixnoize/">
+    <img src="https://komarev.com/ghpvc/?username=Zenoixnoize&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
   <a href="https://github.com/phaticusthiccy?tab=stars">
-    <img src="https://img.shields.io/github/stars/phaticusthiccy?color=ff69b4&label=Stargazers&style=plastic">
+    <img src="https://img.shields.io/github/stars/Zenoixnoize?color=ff69b4&label=Stargazers&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy?tab=followers">
-    <img src="https://img.shields.io/github/followers/phaticusthiccy?color=ff69b4&label=Followers&style=plastic">
+  <a href="https://github.com/Zenoixnoize?tab=followers">
+    <img src="https://img.shields.io/github/followers/Zenoixnoize?color=ff69b4&label=Followers&style=plastic">
 
   </a>
 </p>
@@ -72,12 +72,7 @@
 
 | Repository     | Link     |
 | ---            | ---      |
-| CoffeeHouse-JavaScript-API-Wrapper | https://github.com/intellivoid/CoffeeHouse-JavaScript-API-Wrapper       |
-| node-fluent-ffmpeg | https://github.com/fluent-ffmpeg/node-fluent-ffmpeg |
-| Hacktoberfest_2021 (Lua) | https://github.com/wafarifki/Hacktoberfest_2021 |
-| google-this | https://github.com/LuanRT/google-this |
-| kelle-telegram | https://github.com/luisgbr1el/kelle-telegram |
-
+| GARFIELD PROJECT | https://github.com/Zenoixnoize/Garfield-3.0       |
 </details>
 
 ##
@@ -85,12 +80,12 @@
 <h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://twitter.com/kyrie_baran" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="kyrie_baran  " height="54" width="54" /></a>
-<a href="https://instagram.com/kyrie.baran" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="kyrie.baran" height="54" width="54" /></a>
-<a href="mailto:birhic023@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="Thiccy" height="50" width="60" /></a>
+<a href="https://www.instagram.com/liyanage_tharindu_?r=nametag" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="kyrie.baran" height="54" width="54" /></a>
+<a href="mailto:birhic023@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="NOIZE" height="50" width="60" /></a>
 
 <p align="left"
 
-<a href="https://youtube.com/channel/UCoqYkVlXyQqkgFazeVBtZbQ" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="Thiccy YouTube" height="46" width="70" /></a>
+<a href="https://youtube.com/channel/UCoqYkVlXyQqkgFazeVBtZbQ" target="blank"><img align="center" src="https://i.hizliresim.com/oxo165f.png" alt="NOIZE YouTube" height="46" width="70" /></a>
 
 </p>
 
@@ -100,7 +95,7 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="phaticusthiccy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="NOIZE" /></p>
 
 ![Thiccy](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
 
@@ -120,7 +115,7 @@ Hi, This is Thiccy
 
 I am an AI Developer. My real thing to do crating artificial brains, neural tools. Also ı am a student of mechatronics enginering.
 
-I am 17 yeas old. From Turkey
+I am 16 yeas old. From Sri Lanka 🇱🇰 
 
 I worked with Instagram, Gitlab, Bitbucket, Brainshop. Some of for testing, some things for developing.
 If you have any question for me ı put my contact information above.
