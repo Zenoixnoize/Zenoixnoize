@@ -79,7 +79,7 @@
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://twitter.com/kyrie_baran" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="kyrie_baran  " height="54" width="54" /></a>
+<a href="https://www.facebook.com/zenoixnoize" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="kyrie_baran  " height="54" width="54" /></a>
 <a href="https://www.instagram.com/liyanage_tharindu_?r=nametag" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="kyrie.baran" height="54" width="54" /></a>
 <a href="mailto:birhic023@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="NOIZE" height="50" width="60" /></a>
 
@@ -89,18 +89,18 @@
 
 </p>
 
-### Pull Up My [Blog!](https://t.me/thiccyblog)
+### Pull Up My Group [Guild!](https://t.me/ipandaproject)
 <p align="left">
-<a href="https://t.me/thiccyblog" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Thiccy's Blog  " height="54" width="54" /></a>
+<a href="https://t.me/ipandaproject" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="Thiccy's Blog  " height="54" width="54" /></a>
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="NOIZE" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenoixnoize&show_icons=true&layout=compact&theme=nightowl" alt="NOIZE" /></p>
 
-![Thiccy](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
+![NOIZE](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phaticusthiccy&theme=nightowl" alt="phaticusthiccy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phaticusthiccy&theme=nightowl" alt="ZENOI" /></p>
 </details>
 
 ##
