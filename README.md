@@ -1,5 +1,5 @@
 <h2 align="center">Hi 🥰 I'm <br>ＮＯＩＺ Ξ</h1>
-<h4 align="center">He/Him - BLM Resources</h3>
+<h4 align="center">I am 16 yeas old developer... From Sri Lanka 🇱🇰 </h3>
 <h4 align="center">I am a Learning. Not more..</h3>
 <p align="center">
   Also I am Student Developer 
@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=Zenoixnoize&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy?tab=stars">
+  <a href="https://github.com/Zenoixnoize/?tab=stars">
     <img src="https://img.shields.io/github/stars/Zenoixnoize?color=ff69b4&label=Stargazers&style=plastic">
 
   </a>
@@ -81,7 +81,7 @@
 <p align="left">
 <a href="https://www.facebook.com/zenoixnoize" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="kyrie_baran  " height="54" width="54" /></a>
 <a href="https://www.instagram.com/liyanage_tharindu_?r=nametag" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="kyrie.baran" height="54" width="54" /></a>
-<a href="mailto:birhic023@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="NOIZE" height="50" width="60" /></a>
+<a href="Tharindunayanthaliyanage@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="NOIZE" height="50" width="60" /></a>
 
 <p align="left"
 
@@ -113,7 +113,7 @@
     <summary><b>☄️ About Me </b></summary><br/>
 Hi, This is Thiccy
 
-I am an AI Developer. My real thing to do crating artificial brains, neural tools. Also ı am a student of mechatronics enginering.
+I am an AI Developer. My real thing to do crating artificial brains, neural tools. Also ı am a student of O/l ❄️ 
 
 I am 16 yeas old. From Sri Lanka 🇱🇰 
 
