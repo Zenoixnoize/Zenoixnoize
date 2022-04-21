@@ -23,18 +23,18 @@
 </p>
 
 <details>
-  <summary><b>Languages I Know 💻</b></summary><br/>
+  <summary><b>Languages 💻</b></summary><br/>
 
-| Language   | Degree   |
+| Language   | Results  |
 | ---        | ---      |
-| Javascript | SSS      |
-| Python     | SSS (AI) |
-| HTML       | A        |
-| Typescript | B+       |
-| CSS        | B        |
-| SCSS       | B        |
-| Lua        | B        |
-| Golang     | B        |
+| Javascript | A+       |
+| Python     | A+       |
+| HTML       | A+       |
+| Typescript | A+       |
+| CSS        | A+       |
+| SCSS       | A+       |
+| Lua        | A+       |
+| Golang     | A+       |
 
 ##
 #### Degree Table 
