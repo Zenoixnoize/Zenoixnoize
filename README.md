@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo11615
-Fork on GitHub2943
+
 <h1 align="center">Hi 👋, I'm Tharindu Liyanage(ＺＥＮＯＩ)</h1>
 <h3 align="center">Hi 🦋 I'm Tharindu Liyanage I am 16 yeas old developer... From Sri Lanka 🇱🇰 I am a Learning. Not more.. Also I am Student Developer</h3>
 
@@ -10,20 +7,21 @@ Fork on GitHub2943
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenoixnoize" alt="zenoixnoize" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tharind49274878" target="blank"><img src="https://img.shields.io/twitter/follow/tharind49274878?logo=twitter&style=for-the-badge" alt="tharind49274878" /></a> </p>
+<b>
 
 - 🔭 I’m currently working on [X NODES DEVS](https://github.com/NOIZE-DEVELOPMENT)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zenoixnoize](https://github.com/Zenoixnoize)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Zenoixnoize)
 
-- 📝 I regularly write articles on [https://www.facebook.com/TharinduLiyanages](https://www.facebook.com/TharinduLiyanages)
+- 📝 I regularly write articles on [Facebook](https://www.facebook.com/TharinduLiyanages)
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **Tharindunayanthaliyanage@gmail.com**
+- 📫 How to reach me [Click Now](Tharindunayanthaliyanage@gmail.com)
 
 - ⚡ Fun fact **I think I'am Funny**
+</b>
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -51,27 +49,3 @@ Fork on GitHub2943
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenoixnoize&show_icons=true&locale=en" alt="zenoixnoize" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenoixnoize&" alt="zenoixnoize" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-GitHub Profile github profile markdown generator logoREADME Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
